@@ -1,0 +1,24 @@
+*{
+    font-family: "Unna", serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+body{
+    background-image: url("./backgound.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+li{
+    list-style: none;
+}
+#iconimg{
+    margin-left: 100px;
+    width:110px;
+    height: 80px;
+}
+#res{
+    background: rgba(135, 207, 235, 0.32);
+    color: white;
+    text-shadow: 10px 10px 10px black;
+    font-weight: bolder;
+}
