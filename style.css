@@ -31,3 +31,10 @@ li{
       background-position: center;
     }
 }
+@media(min-width:600px){
+    body{
+        height: 100vh;
+    }
+}
+    
+
