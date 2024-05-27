@@ -23,3 +23,11 @@ li{
     text-shadow: 10px 10px 10px black;
     font-weight: bolder;
 }
+@media(max-width:600px){
+    body{
+      background-size: cover;
+      background-repeat: no-repeat;
+      height: 100vh;
+      background-position: center;
+    }
+}
