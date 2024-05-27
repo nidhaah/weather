@@ -31,7 +31,7 @@ li{
       background-position: center;
     }
 }
-@media(min-width:600px){
+@media(max-width:300px){
     body{
         height: 100vh;
         background-size: cover;
